@@ -4,10 +4,21 @@ description: > # your text below (remove <br> elements if you don't need line br
   MS Student, Geospatial Data Science<br>
   MS Student, Data Science 
   <br><br>
-  Second description 
+  As a master's student in Data Science and Geospatial Data Science, 
+I am passionate about protecting the environment and reducing carbon emissions through the application of what I learned. 
+With skills in spatial analysis and data science, 
+I am proficient in ArcGIS Pro, R, Python, SQL, and Tableau.
+
+I am currently working as a research assistant at the Erb Institute, University of Michigan, 
+where I clean, manipulate, and analyze carbon emission data. 
+My capstone project involves conducting spatial analysis for a Marine Pumped HydroElectric Storage technique, 
+which includes mapping resource potential and assisting with site selection for a pilot project in Hawaii.
+
+I am actively seeking full time job opportunity of data analyst or business intelligence. 
+I hope to blend my knowledge in geospatial data science and data science to make a difference.
+
   <br><br>
   <a href="https://www.linkedin.com/in/songci/">View My LinkedIn Profile</a> 
-  <br><br>
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
