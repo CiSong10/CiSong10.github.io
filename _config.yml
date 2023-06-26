@@ -4,16 +4,11 @@ description: > # your text below (remove <br> elements if you don't need line br
   MS Student, Geospatial Data Science<br>
   MS Student, Data Science 
   <br><br>
-  I am passionate about protecting the environment and reducing carbon emissions through the application of my skills in spatial analysis and data science, 
-  I am proficient in ArcGIS Pro, R, Python, SQL, and Tableau.
-
-  I am currently working as an Intern in 5 Lakes Energy, a renewable energy consulting company, where I 
-
-  I am actively seeking full time job opportunity of data analyst or business intelligence. 
-  I hope to blend my knowledge in geospatial data science and data science to make a difference.
+  I am passionate about pursuing an environment and sustainability world through the application of my skills in spatial analysis and data science.
 
   <br><br>
   <a href="https://www.linkedin.com/in/songci/">View My LinkedIn Profile</a> 
+
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
