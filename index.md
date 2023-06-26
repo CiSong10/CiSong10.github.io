@@ -4,29 +4,35 @@
 
 ### Data Science Projects
 
-[Building & Energy](/sample_page)
+[Building & Energy]
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [AI email Manager](https://github.com/CiSong10/AI-email-manager)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+An AI email manager which can summarize and catogrize Gmail inbox emails.
 
 ---
 [Omicron or Policy What caused 2022 China COVID Outbreak](https://github.com/CiSong10/Omicron-or-Policy-What-caused-2022-China-COVID-Outbreak)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Retrieved and analyzed COVID case data from China's National Health Commission website through web scraping, 
+determining the increase in COVID cases in China in 2022.
 
 ---
+Relationship between airplane delay time and weather event
+<img src="images/Delay Time and Weather event by Time.png?raw=true"/>
+
 
 ### Geospatial Data Science Projects
 
-- Hawaii
+- Siting analysis for a Marine-Pumped HydroElectric Storage pilot project in Hawaii
 <img src="images/HOST 500-800m.png?raw=true"/>
 
-- [LiDAR Classification in New Orleans](https://github.com/CiSong10/LiDAR-Classification-in-New-Orleans)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Land Cover Land Use Classification in New Orleans](https://github.com/CiSong10/LiDAR-Classification-in-New-Orleans)
+A land cover map of New Orleans using remote sensing data through ArcGIS and R machine learning techniques.
+<img src="images/NOLA map.png?raw=true"/>
+
+- [Global Disasters Map](https://z9o8cv-bangzhao-shu.shinyapps.io/disaster/?_ga=2.185421226.2024294726.1639798382-1057311151.1638469416)
+A website using R Shiny apps to visualize global disaster data since 1900, 
+displaying frequency, affected population, and economic damage of each type.
 
 ---
 
