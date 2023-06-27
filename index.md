@@ -10,12 +10,12 @@
 <img src="images/1.png?raw=true"/>
 
 ---
-[<span style="color:blue; text-decoration:underline;">**AI email Manager**</span>](https://github.com/CiSong10/AI-email-manager)
+[<span style="color:blue; text-decoration:underline;"><b>AI email Manager</b></span>](https://github.com/CiSong10/AI-email-manager)
 
 An AI email manager which can summarize and catogrize Gmail inbox emails.
 
 ---
-[<span style="color:blue; text-decoration:underline;">**Omicron or Policy What caused 2022 China COVID Outbreak**</span>](https://github.com/CiSong10/Omicron-or-Policy-What-caused-2022-China-COVID-Outbreak)
+[<span style="color:blue; text-decoration:underline;"><b>Omicron or Policy: What caused 2022 China COVID Outbreak?</b></span>](https://github.com/CiSong10/Omicron-or-Policy-What-caused-2022-China-COVID-Outbreak)
 
 Retrieved and analyzed COVID case data from China's National Health Commission website through web scraping, 
 determining the increase in COVID cases in China in 2022.
@@ -39,7 +39,7 @@ Made by *Tableau*.
 A land cover map of New Orleans using remote sensing data through *ArcGIS* and *R* machine learning techniques.
 <img src="images/NOLA map.png?raw=true"/>
 
-- [<span style="color:blue; text-decoration:underline;">**Global Disasters Map**</span>](https://z9o8cv-bangzhao-shu.shinyapps.io/disaster/)
+- [<span style="color:blue; text-decoration:underline;"><b>Global Disasters Map</b></span>](https://z9o8cv-bangzhao-shu.shinyapps.io/disaster/)
 
 A website using *R Shiny apps* to visualize global disaster data since 1900, 
 displaying frequency, affected population, and economic damage of each type.
