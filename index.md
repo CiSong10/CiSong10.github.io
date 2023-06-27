@@ -1,5 +1,7 @@
 ## Portfolio
 
+<span style="color:blue; text-decoration:underline;">Résumé</span>
+
 ---
 
 ### Data Science Projects
