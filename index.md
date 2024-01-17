@@ -4,8 +4,13 @@
 
 ## Data Science Projects
 
-[<span style="color:blue; text-decoration:underline;"><b>Building & Energy</b></span>](pdf/Urban_building_energy_consumption_in_NYC.pdf)
-<img src="images/1.png?raw=true"/>
+**Urban Building Energy Intensity in New York City**
+
+<img src="images/building energy.png?raw=true"/>
+
+In order to understand the electricity intensity in New York, based on the building
+floor area and electricity usage in the zipcode level, we built a model and estimated the
+electricity usage in the census tract level, further calculating the electricity intensity.
 
 ---
 [<span style="color:blue; text-decoration:underline;"><b>AI email Manager</b></span>](https://github.com/CiSong10/AI-email-manager)
